@@ -1,0 +1,10 @@
+| Трек                                          | Истина       | Голоса: текст / ряд / изображение    | Согласие   | Метка системы   |   Уверенность | Решение   |   Бюджет |   Время, с |
+|:----------------------------------------------|:-------------|:-------------------------------------|:-----------|:----------------|--------------:|:----------|---------:|-----------:|
+| Norine Braun — Modern Anguish                 | female       | female / male / female               | 2 из 3     | female          |         0.447 | автометка |        3 |      1.114 |
+| Psychetropic — Futurengine                    | instrumental | instrumental / group / instrumental  | 2 из 3     | instrumental    |         0.547 | автометка |        3 |      0.082 |
+| St. Eliyah Childrens Choir — Blessed is the m | group        | group / group / group                | 3 из 3     | group           |         0.763 | автометка |        3 |      0.082 |
+| Tilopa — Roku                                 | instrumental | female / instrumental / instrumental | 2 из 3     | instrumental    |         0.64  | автометка |        3 |      0.081 |
+| Processor — Insomnia                          | male         | instrumental / instrumental / male   | 2 из 3     | instrumental    |         0.451 | автометка |        3 |      0.081 |
+| Norine Braun — Climb the Mountain             | female       | male / female / female               | 2 из 3     | female          |         0.495 | автометка |        3 |      0.082 |
+| WEXIN — Seven Days (Original Edit)            | instrumental | male / instrumental / instrumental   | 2 из 3     | instrumental    |         0.607 | автометка |        3 |      0.089 |
+| The Poetize Code — Poetize Code - Flowers Lan | female       | male / female / instrumental         | 1 из 3     | female          |         0.387 | модератор |        2 |      0.09  |
